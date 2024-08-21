@@ -42,13 +42,13 @@ async function main() {
     const modelName = path.basename(fileName, path.extname(fileName));
     const model: any = prisma[modelName as keyof typeof prisma];
 
-    for (const data of jsonData) {
-      try {
+    try {
+      for (const data of jsonData) {
         await model.create({ data });
-        console.log(`Seeded ${modelName} with data from ${fileName}`);
-      } catch (error) {
-        console.error(`Error seeding data for ${modelName}:`, error);
       }
+      console.log(`Seeded ${modelName} with data from ${fileName}`);
+    } catch (error) {
+      console.error(`Error seeding data for ${modelName}:`, error);
     }
   }
 }
