@@ -1,0 +1,152 @@
+[
+  {
+    "id": 1,
+    "text": "We need to update this design to include new specifications.",
+    "taskId": 1,
+    "userId": 2
+  },
+  {
+    "id": 2,
+    "text": "Can we meet to discuss the navigation algorithm updates?",
+    "taskId": 2,
+    "userId": 4
+  },
+  {
+    "id": 3,
+    "text": "This energy solution looks promising, but needs more research.",
+    "taskId": 3,
+    "userId": 6
+  },
+  {
+    "id": 4,
+    "text": "Let's revise the software development workflow to include agile methodologies.",
+    "taskId": 4,
+    "userId": 8
+  },
+  {
+    "id": 5,
+    "text": "We should consider newer AI models for better accuracy.",
+    "taskId": 5,
+    "userId": 10
+  },
+  {
+    "id": 6,
+    "text": "Product testing needs to be more rigorous.",
+    "taskId": 6,
+    "userId": 12
+  },
+  {
+    "id": 7,
+    "text": "Optimization algorithms are not yet efficient.",
+    "taskId": 7,
+    "userId": 14
+  },
+  {
+    "id": 8,
+    "text": "Database overhaul could impact current operations negatively.",
+    "taskId": 8,
+    "userId": 16
+  },
+  {
+    "id": 9,
+    "text": "Infrastructure upgrades must be done during low traffic hours.",
+    "taskId": 9,
+    "userId": 18
+  },
+  {
+    "id": 10,
+    "text": "Security measures need to be enhanced to prevent data breaches.",
+    "taskId": 10,
+    "userId": 20
+  },
+  {
+    "id": 11,
+    "text": "Consider using more robust training datasets for AI.",
+    "taskId": 11,
+    "userId": 1
+  },
+  {
+    "id": 12,
+    "text": "Server security update meeting scheduled for next week.",
+    "taskId": 12,
+    "userId": 2
+  },
+  {
+    "id": 13,
+    "text": "UX redesign has been well received in initial user tests.",
+    "taskId": 13,
+    "userId": 3
+  },
+  {
+    "id": 14,
+    "text": "Data analytics implementation needs to account for real-time processing delays.",
+    "taskId": 14,
+    "userId": 4
+  },
+  {
+    "id": 15,
+    "text": "Encryption project needs to align with international security standards.",
+    "taskId": 15,
+    "userId": 5
+  },
+  {
+    "id": 16,
+    "text": "Review cloud storage optimization strategies in Q3 meeting.",
+    "taskId": 16,
+    "userId": 6
+  },
+  {
+    "id": 17,
+    "text": "Hardware compatibility tests to include newer device models.",
+    "taskId": 17,
+    "userId": 7
+  },
+  {
+    "id": 18,
+    "text": "Visualization tools to support both 2D and 3D data representations.",
+    "taskId": 18,
+    "userId": 8
+  },
+  {
+    "id": 19,
+    "text": "IoT device prototypes to undergo extensive field testing.",
+    "taskId": 19,
+    "userId": 9
+  },
+  {
+    "id": 20,
+    "text": "Legacy system upgrade to start with backend databases.",
+    "taskId": 20,
+    "userId": 10
+  },
+  {
+    "id": 21,
+    "text": "Network security framework should prioritize threat detection improvements.",
+    "taskId": 21,
+    "userId": 1
+  },
+  {
+    "id": 22,
+    "text": "Application deployment strategies to include Docker integration.",
+    "taskId": 22,
+    "userId": 2
+  },
+  {
+    "id": 23,
+    "text": "Market analysis should cover competitive product landscapes.",
+    "taskId": 23,
+    "userId": 3
+  },
+  {
+    "id": 24,
+    "text": "Feedback mechanisms to utilize adaptive questioning techniques.",
+    "taskId": 24,
+    "userId": 4
+  },
+  {
+    "id": 25,
+    "text": "API integration must ensure data privacy compliance.",
+    "taskId": 25,
+    "userId": 5
+  }
+]

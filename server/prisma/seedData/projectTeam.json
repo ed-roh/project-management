@@ -1,0 +1,22 @@
+[
+  { "id": 1, "teamId": 1, "projectId": 1 },
+  { "id": 2, "teamId": 2, "projectId": 1 },
+  { "id": 3, "teamId": 3, "projectId": 1 },
+  { "id": 4, "teamId": 4, "projectId": 1 },
+  { "id": 5, "teamId": 5, "projectId": 1 },
+  { "id": 6, "teamId": 1, "projectId": 2 },
+  { "id": 7, "teamId": 2, "projectId": 2 },
+  { "id": 8, "teamId": 3, "projectId": 2 },
+  { "id": 9, "teamId": 4, "projectId": 2 },
+  { "id": 10, "teamId": 5, "projectId": 2 },
+  { "id": 11, "teamId": 1, "projectId": 3 },
+  { "id": 12, "teamId": 2, "projectId": 3 },
+  { "id": 13, "teamId": 3, "projectId": 3 },
+  { "id": 14, "teamId": 4, "projectId": 3 },
+  { "id": 15, "teamId": 5, "projectId": 3 },
+  { "id": 16, "teamId": 1, "projectId": 4 },
+  { "id": 17, "teamId": 2, "projectId": 4 },
+  { "id": 18, "teamId": 3, "projectId": 4 },
+  { "id": 19, "teamId": 4, "projectId": 4 },
+  { "id": 20, "teamId": 5, "projectId": 4 }
+]
